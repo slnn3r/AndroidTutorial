@@ -9,7 +9,7 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 
 ## Table of Contents
 1. [Understanding Mobile Development](#understanding-mobile-development)
-2. [Understanding Android](#understanding-android)
+2. [Android Development Overview](#android-development-overview)
 3. [Android Development Tools & Resources](#android-development-tools-&-resources)
 4. [Android Application Components](#android-application-components)
 5. [Android Activity Life Cycle](#android-activity-life-cycle)
@@ -18,22 +18,44 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 
 
 
-## Understanding Mobile Development
+## 1. Understanding Mobile Development
+
+#### Mobile vs Web Application
+
+#### Mobile Application Category
 
 
-## Understanding Android
+## 2. Android Development Overview
+
+#### Why Android (Strengths of Android)?
+
+#### Language Used in Android Development
 
 
-## Android Development Tools & Resources
+## 3. Android Development Tools & Resources
+
+#### integrated development environment (IDE) 
+
+#### I'm Stuck, Help!
 
 
-## Android Application Components
+## 4. Android Application Components
 
 
-## Android Activity Life Cycle
 
 
-## Android UI Controls
+## 5. Android Activity Life Cycle
 
 
-## What Else?
+
+## 6. Android UI Controls
+
+
+
+## 7. What Else?
+
+#### Develop with Version Control System (GIT)
+
+#### Library
+
+#### Architecture
