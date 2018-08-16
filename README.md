@@ -1,4 +1,11 @@
-# Getting Started with MAD (aka Mobile Android Development)
+# Getting Started with MAD  
+
+![Image of Yaktocat](https://github.com/slnn3r/AndroidTutorial/blob/master/img/one-step-at-a-time-1080x630.jpg)
+“Every Journey Begins With A Single Step.” – Maya Angelou 
+
+
+MAD (aka Mobile Android Development) 
+
 
 
 ## Table of Contents
