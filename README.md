@@ -37,6 +37,7 @@ Here some additional Reads on How Mobile Application is different from Web Appli
 - [What are the difference between web app and mobile app?](https://www.quora.com/What-are-the-difference-between-web-app-and-mobile-app)
 - [Differences between mobile applications and mobile websites](https://www.unitag.io/mobile-websites/what-is-the-difference-between-a-mobile-application-and-a-mobile-webpage)
 
+<br>
 
 **Mobile Application Category**
 
@@ -52,37 +53,50 @@ There are various type of Mobile Application, each of them access through Mobile
 
 There are the brief description of different category of Mobile Application. The Mobile Hybrid Application and Mobile Compiled Application sometimes can be hard to differentiate, but still both of them are on a different page. Here a ([well-explained video](https://www.youtube.com/watch?v=rb8smP_xTTY)) if you really wanted to get to know more about the differences among the Mobile Application above.
 
+
+<br>
+
 ## Android Development Overview
 
 **Why Android? (Strengths of Android)**
 
+<br>
+
 **Language Used in Android Development**
 
+<br>
 
 ## Android Development Tools and Resources
 
 **integrated development environment (IDE)**
 
+<br>
+
 **I'm Stuck, Help!**
 
+<br>
 
 ## Android Application Components
 
 
-
+<br>
 
 ## Android Activity Life Cycle
 
-
+<br>
 
 ## Android UI Controls
 
-
+<br>
 
 ## What Else?
 
 **Develop with Version Control System (GIT)**
 
+<br>
+
 **Library**
+
+<br>
 
 **Architecture**
