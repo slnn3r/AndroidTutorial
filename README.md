@@ -20,23 +20,23 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 
 ## 1. Understanding Mobile Development
 
-#### Mobile vs Web Application
+**Mobile vs Web Application**
 
-#### Mobile Application Category
+**Mobile Application Category**
 
 
 ## 2. Android Development Overview
 
-#### Why Android (Strengths of Android)?
+**Why Android (Strengths of Android)?**
 
-#### Language Used in Android Development
+**Language Used in Android Development**
 
 
 ## 3. Android Development Tools & Resources
 
-#### integrated development environment (IDE) 
+**integrated development environment (IDE)**
 
-#### I'm Stuck, Help!
+**I'm Stuck, Help!**
 
 
 ## 4. Android Application Components
@@ -54,8 +54,8 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 
 ## 7. What Else?
 
-#### Develop with Version Control System (GIT)
+**Develop with Version Control System (GIT)**
 
-#### Library
+**Library**
 
-#### Architecture
+**Architecture**
