@@ -1,11 +1,11 @@
 # AndroidTutorial
 Getting Started with Android Development
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
+## Table of Contents
+1. [Understanding Mobile Development](#Understanding-Mobile-Development)
+2. [Get to know Android](#Get-to-know-Android)
 3. [Third Example](#third-example)
 
-## Example
-## Example2
+## Understanding Mobile Development
+## Get to know Android
 ## Third Example
