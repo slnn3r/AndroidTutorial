@@ -2,8 +2,8 @@
 Getting Started with Android Development
 
 ## Table of Contents
-1. [Understanding Mobile Development](#Understanding-Mobile-Development)
-2. [Get to know Android](#Get-to-know-Android)
+1. [Understanding Mobile Development](#understanding-mobile-development)
+2. [Get to know Android](#get-to-know-android)
 3. [Third Example](#third-example)
 
 ## Understanding Mobile Development
