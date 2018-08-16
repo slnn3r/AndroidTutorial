@@ -2,21 +2,20 @@
 
 ![Steps](https://github.com/slnn3r/AndroidTutorial/blob/master/img/one-step-at-a-time-1080x630.jpg)
 
-“Every Journey Begins With A Single Step.” – Maya Angelou
+**“Every Journey Begins With A Single Step.” – Maya Angelou**
 
-When you think about to develop a Mobile Apps you cannot avoid the needs to adapt the MAD concept (aka Mobile Application Development). In MAD, things may work differently from **Web Application, Windows Application and other application development**. This documentation would mainly focus on MAD of **Android Platform**, it includes the basic ideas, concepts, tutorials, guidelines and etc that may help you in understanding the MAD. There is no steep learning curve in MAD, so one step a time and you are good.
+When you think about to develop a Mobile Apps you cannot avoid the needs to adapt the MAD concept (aka Mobile Application Development). In MAD, things may work differently from **Web Application, Windows Application and other application development**. This documentation would mainly focus on MAD of **Android Platform**, it is not a step-by-step guidelines but it includes necessary resources that may give you the rough idea on getting started with MAD. There is no steep learning curve in MAD, so one step a time and you are good.
 
 
 ## Table of Contents
 1. [Understanding Mobile Development](#understanding-mobile-development)
 2. [Understanding Android](#understanding-android)
-3. [Android Development Tools and Resources](#android-development-tools-and-resources)
+3. [Android Development Tools & Resources](#android-development-tools-&-resources)
 4. [Android Application Components](#android-application-components)
 5. [Android Activity Life Cycle](#android-activity-life-cycle)
 6. [Android UI Controls](#android-ui-controls)
-7. [Practical](#practical)
-8. [What else?](#what-else)
-9. [References](#references)
+7. [What else?](#what-else)
+
 
 
 ## Understanding Mobile Development
@@ -25,7 +24,7 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 ## Understanding Android
 
 
-## Android Development Tools and Resources
+## Android Development Tools & Resources
 
 
 ## Android Application Components
@@ -37,10 +36,4 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 ## Android UI Controls
 
 
-## Practical
-
-
 ## What Else?
-
-
-## References
