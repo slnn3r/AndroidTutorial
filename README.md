@@ -61,7 +61,17 @@ There are the brief description of different category of Mobile Application. The
 ![Androids](https://github.com/slnn3r/AndroidTutorial/blob/master/img/manu-cornet-bugdroid-cartoon-android-evolution-key-lime-pie.jpg)
 
 
-**Why Android? (Strengths of Android)**
+**Why Android Mobile Native Application?**
+
+We going to look into specifically toward Android Mobile Native Application. These reason of choosing Android Mobile Native Application over the others are totally opinion-based, some of my personal thoughts are:
+
+1. **It is supported by Google** - Google offer a lot of great stuff, Cool Libraries, Great IDE tools, technical support, great platform like PlayStore, etc and all come in great quality and free or affordable charges.
+
+2. **It is supported by a Large Community** - The community is huge, everyone is contributing and supporting each other directly or indirectly. There are a lot great Forum with a lot cool people who willing to offer up **reasonable** help, many great solutions, ideas, libraries are being shared and published.
+
+I personally love open-source, it embraces the idea of "Sharing is Caring", maybe you could look into this [articles](https://www.androidauthority.com/develop-apps-for-android-rather-than-ios-607219/) explain the other reason of choosing Android.
+
+
 
 <br>
 
