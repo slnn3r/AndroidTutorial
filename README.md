@@ -14,7 +14,7 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 4. [Android Application Components](#android-application-components)
 5. [Android Activity Life Cycle](#android-activity-life-cycle)
 6. [Android UI Controls](#android-ui-controls)
-7. [What else?](#what-else)
+7. [The End?](#the-end)
 
 
 
@@ -105,31 +105,55 @@ Note: Do follow the sequence from **Overview** -> **Create an Android Project** 
 
 <br>
 
-**I'm Stuck, Help!**
+**I'm Stuck, Help! (Resources)**
+
+We all stuck at some point in our life. Here some very useful resource that would make your life easier:
+
+1. [Must Use](https://www.google.com)
+2. [Commonly Use](https://stackoverflow.com/)
 
 <br>
 
 ## Android Application Components
 
+There are 4 cores and must know Components in Android Application, have a review on this [Android - Application Components](https://www.tutorialspoint.com/android/android_application_components.htm).
+
+In the very beginning you mostly would only play with **Activity**, so make sure you at least get the idea of "What is it, What does it do, etc".
 
 <br>
 
 ## Android Activity Life Cycle
 
+As you would deal with Activity a lot, it is very important to understand **How it work** so that you could "Do the Right thing" and also "Do things Right".
+
+Activity Life Cycle is like its lifetime, the good thing is we got the controls over its lifetime with its "dafault" function such as onCreated(), onStart(), etc. Have some read and understand what is this "Activity Life Cycle" is all about:
+
+1. [Android - Activities (Short Read)](https://www.tutorialspoint.com/android/android_acitivities.htm)
+2. [Activity-lifecycle concepts (Long Read)](https://developer.android.com/guide/components/activities/activity-lifecycle)
+
 <br>
 
 ## Android UI Controls
 
-<br>
+We interact the UI with its "Controls" such as Button, Dropdown List, Radio Button, Check Box, etc. In Android, these "Controls" is called **View**, and some of them may have called differently from other application, for example in Web Application we call "Drop-down List" a "Drop-down List" but in Android Mobile Application we call "Drop-down List" a **Spinner**. We would also find there are some UI Controls you have never see in other application as well.
 
-## What Else?
+So, let's get familiar with Android UI Controls by practically try out these Control by create a Demo Apps as well, you could just use back the First Apps you have build previously.
 
-**Develop with Version Control System (GIT)**
-
-<br>
-
-**Library**
+1. [Basic Controls](https://www.tutorialspoint.com/android/android_user_interface_controls.htm)
+2. [How to handle Controls Event/Action](https://www.tutorialspoint.com/android/android_event_handling.htm)
+3. [How to Style the Controls](https://www.tutorialspoint.com/android/android_styles_and_themes.htm)
 
 <br>
 
-**Architecture**
+
+## The End?
+
+Cool, if you able to catch up all the things above, you have at least able to:
+
+1. Differentiate Mobile and Web application, understand the Category of Mobile Application
+2. Understand Basic of Android and Setup the Android Studio
+3. Create a Simple Android Native Apps in **JAVA** and able to play with basic UI controls
+
+![iceberg](https://github.com/slnn3r/AndroidTutorial/blob/master/img/iceberg_header_0.jpg)
+
+Well-done, now you are able to do more than just **printf** a "hello world" and you are currently on top of the Ice Berg of the Android Mobile Application Development. There are still a lot of more to dig into deeper, for now that all from me, hope this documentation could allow you have a great start with Android Native Mobile Application. Happy Coding.
