@@ -63,25 +63,45 @@ There are the brief description of different category of Mobile Application. The
 
 **Why Android Mobile Native Application?**
 
-We going to look into specifically toward Android Mobile Native Application. These reason of choosing Android Mobile Native Application over the others are totally opinion-based, some of my personal thoughts are:
+We going to look into specifically toward Android Mobile Native Application. These reason of choosing Android Mobile Native Application over the others is totally opinion-based, Here some of my personal thoughts:
 
 1. **It is supported by Google** - Google offer a lot of great stuff, Cool Libraries, Great IDE tools, technical support, great platform like PlayStore, etc and all come in great quality and free or affordable charges.
 
 2. **It is supported by a Large Community** - The community is huge, everyone is contributing and supporting each other directly or indirectly. There are a lot great Forum with a lot cool people who willing to offer up **reasonable** help, many great solutions, ideas, libraries are being shared and published.
 
-I personally love open-source, it embraces the idea of "Sharing is Caring", maybe you could look into this [articles](https://www.androidauthority.com/develop-apps-for-android-rather-than-ios-607219/) explain the other reason of choosing Android.
+I personally love open-source, it embraces the idea of "Sharing is Caring", maybe you could look into this [articles](https://www.androidauthority.com/develop-apps-for-android-rather-than-ios-607219/) that explain the other reason of choosing Android.
 
 
 
 <br>
 
-**Language Used in Android Development**
+**Native Language Used in Android Development**
+
+Currently there are 2 Available Native Language that widely supported by Google and the Community, they are:
+
+1. **JAVA** - JAVA have been in the scene for a decade, a general purpose programming language that can be use to code web, windows application, mobile application and many more. I personally think JAVA is a very good place to start off learning the **Object Oriented Programming Concept** as well. For more info, Google it.
+
+2. **KOTLIN** - JAVA officially is the first official language to code Android Native Mobile Application and being supported by Google. In 2017, Google officially announced that they will be offer **first-class support** toward KOTLIN and make it one of their official language to develop Android Native Mobile Application. It offers some great technologies such as Lambdas, etc, the code implementation is usually shorter and concise than JAVA. For more info, Google it.    
+
+It's 2018, code in Modern Language like KOTLIN is very preferable. However, for novice, it would highly recommended to code in JAVA instead.
 
 <br>
 
 ## Android Development Tools and Resources
 
 **integrated development environment (IDE)**
+
+Notepad++ or other text editing software is a very helpful tools in programming, some of us might tempted to solely use to code for showing off or something. **But please do not do that.** To ensure our life's misery stick to the minimum status, Google released **Android Studio** as their official IDE where we can have a great environment to develop the Android Mobile Application. Android Studio going to be our main tools, and it consumes great processing power, RAM memory and memory space as well, it would be very preferable to use a **Beafy Rig** to play with it, else you just have to endure and be patient with it sometimes.
+
+Here some Resources to help you getting started with Android Studio:
+
+1. [Where to Download Android Studio](https://developer.android.com/studio/) **(Download the Stable Release Only)**
+2. [How to Setup Android Studio](https://www.youtube.com/watch?v=-Z74OmlQa90)
+3. [A Quick Tour of Android Studio](https://www.youtube.com/watch?v=lGuh4lTWroY)
+
+Time to verify if the Android Studio is properly setup in your PC, let's verify it by building your first mobile native applications. [Try this out](https://developer.android.com/training/basics/firstapp/).
+
+Note: Do follow the sequence from **Overview** -> **Create an Android Project** -> **Run your app** -> **Build a simple user interface** -> **Start another activity**
 
 <br>
 
