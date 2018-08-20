@@ -14,7 +14,8 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 4. [Android Application Components](#android-application-components)
 5. [Android Activity Life Cycle](#android-activity-life-cycle)
 6. [Android UI Controls](#android-ui-controls)
-7. [The End?](#the-end)
+7. [Understanding Your Project](#understanding-your-project) 
+8. [The End?](#the-end)
 
 
 
@@ -28,7 +29,7 @@ There are some differences between Mobile and Web, I would highlight few points 
 
 2. **Accessibility** - Web application tend to have higher accessibility than Mobile application, as web application is cross platform where it can be access by any online device in most web browser, while Mobile application have accessibility restriction by Mobile Platform such as Android, IOS, Windows, etc. Also, in Android, Mobile application's accessibility tend to restricted by the Android Version where older version Android is no longer support latest developed application.
 
-3. **Capability** - Function Capability of Web and Mobile Application are very close to each other (check out: [What Web Can Do](https://whatwebcando.today/)), however there are still things that web application would not able to perform, but things where web application would perform better than Mobile application.
+3. **Capability** - Function Capability of Web and Mobile Application are very close to each other (check out: [What Web Can Do](https://whatwebcando.today/)), however there are still things that web application would not able to perform, and things where web application would perform better than Mobile application.
 
 These are the things I highlighted as you would need to consider about them when you trying to develop a solution. Compatibility of the solution may vary depends on the technical requirements, business nature, etc. So, before develop a Mobile Application, make sure the solution work best in it.
 
@@ -145,6 +146,14 @@ So, let's get familiar with Android UI Controls by practically try out these Con
 
 <br>
 
+
+## Understanding Your Project
+- Understanding Gradle
+- Understanding Android Version
+- Understanding Project Structures
+
+
+<br>
 
 ## The End?
 
