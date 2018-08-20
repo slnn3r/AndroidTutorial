@@ -187,7 +187,7 @@ Cool, if you able to catch up all the things above, you have at least able to:
 1. Differentiate Mobile and Web application, understand the Category of Mobile Application
 2. Understand Basic of Android and Setup the Android Studio
 3. Create a Simple Android Native Apps in **JAVA** and able to play with basic UI controls
-4. Have the idea How your project is being build and How to manage your Project Directories
+4. Have the basic idea on How your project is being build and How to manage your Project Directories
 
 ![iceberg](https://github.com/slnn3r/AndroidTutorial/blob/master/img/iceberg_header_0.jpg)
 
