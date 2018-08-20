@@ -14,7 +14,7 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 4. [Android Application Components](#android-application-components)
 5. [Android Activity Life Cycle](#android-activity-life-cycle)
 6. [Android UI Controls](#android-ui-controls)
-7. [Understanding Your Project](#understanding-your-project) 
+7. [Understanding Your Project](#understanding-your-project)
 8. [The End?](#the-end)
 
 
@@ -148,9 +148,34 @@ So, let's get familiar with Android UI Controls by practically try out these Con
 
 
 ## Understanding Your Project
-- Understanding Gradle
-- Understanding Android Version
-- Understanding Project Structures
+
+Simply letting Android Studio manage most of the things in your project, and having the mindset of "as long it works, will do" does not work in Android Development, you have to at least understand some basic of "How your Project Work" so that you still able in control of the configuration of your project.
+
+**Gradle**
+
+Have a quick look to this [video](https://www.youtube.com/watch?v=Ac7XZZJfBSs) first.
+
+What you have to know for just:
+1. It the one build the whole project in to an Apps. You got an Raw Egg (Resouces), to make a Fried Egg (Final Product) you need some **Tools** such as cookware. With a little effort from you, these **Tools** help transform your Raw Egg into Fried Egg. So, Gradle is the **Tools**, your Resources in your project such as Source Code will be build by Gradle so that you able to get an **APK** (Android Installer File) that can be install to a Physical Phone/Software Emulator.
+
+2. It manages import of libraries. In most application project (Web/Mobile/Windows/etc), you would need to import official or 3rd party libraries so that you could use certain code to perform certain functionality. Library all also a source code file, instead of downloading these files manually and place it within your project to be use, Gradle help to manage (download the files, store them in the right place, etc) all these library file in your project. What you have to do, just specify the library that is published online that you wanted to use in the Gradle setting. In Android Studio, we add library to our project by tinkering the **Dependencies** within the Gradle. This [Video](https://www.youtube.com/watch?v=XzO1ZYMGgB0) shows the basic way to import the library.
+
+3. It manages your Project Configuration. There's a lot configuration you can manage with Gradle, the common configuration that you may need to concern will be the **Compile, Minimum and Target SDK**. Check out what are these "SDK" at [HERE](https://stackoverflow.com/a/27628808/5008350). Another good read would be from this [Article](https://medium.com/google-developers/picking-your-compilesdkversion-minsdkversion-targetsdkversion-a098a0341ebd).
+
+
+**Project Structures**
+
+![project-structure](https://github.com/slnn3r/AndroidTutorial/blob/master/img/project_structure.PNG)
+
+You may find yourself in a situation that not sure where to put a specific source code or where to create a specific file in? There are quite lot Folder/Package within your project. Knowing what are these Folder/Package responsible for and what they do would actually help you to have a better management of your source code files.
+
+Here some resource may help your understand the basic:
+
+1. [Android Directory Structure](https://github.com/codepath/android_guides/wiki/Android-Directory-Structure)
+
+2. [Projects overview](https://developer.android.com/studio/projects/)
+
+3. [Android Studio Project Structure, Compiler, ProGuard](https://www.journaldev.com/9319/android-studio-project-structure-compiler-proguard)
 
 
 <br>
