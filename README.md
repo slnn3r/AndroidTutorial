@@ -156,8 +156,9 @@ However, allowing the Application to able to navigation from screen to screen ma
 
 If you have completed this [My First App](https://developer.android.com/training/basics/firstapp/) previous practical at [Android Development Tools and Resources](#android-development-tools-and-resources) section, then you should have already try out [Starting a Activity](https://developer.android.com/training/basics/firstapp/starting-activity) which allow you to open a new Activity(screen) from an Activity(screen) and also passing data among them. 
 
-Do make sure you have try out [Starting a Activity](https://developer.android.com/training/basics/firstapp/starting-activity).
+Do make sure you have try out [Starting a Activity](https://developer.android.com/training/basics/firstapp/starting-activity) so that you could know the Basic Way to deal with Screen Navigation. 
 
+In addition, to navigate from screen to other screen not necessary must involve multiple activities, the another way to do so which is to have a **Single Activity** with **Multiple Fragments**. **Fragment** would not be cover in this documentation, but you could briefly Googling about it or have a brief understanding what are the difference between Activity and Fragment for your own extra knowledge. 
 
 <br>
 
