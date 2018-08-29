@@ -14,8 +14,9 @@ When you think about to develop a Mobile Apps you cannot avoid the needs to adap
 4. [Android Application Components](#android-application-components)
 5. [Android Activity Life Cycle](#android-activity-life-cycle)
 6. [Android UI Controls](#android-ui-controls)
-7. [Understanding Your Project](#understanding-your-project)
-8. [The End?](#the-end)
+7. [Android Screen Navigations](#android-screen-navigations)
+8. [Understanding Your Project](#understanding-your-project)
+9. [The End?](#the-end)
 
 
 
@@ -147,6 +148,19 @@ So, let's get familiar with Android UI Controls by practically try out these Con
 <br>
 
 
+## Android Screen Navigations
+
+As it is not possible to squeeze in every functions within a single screen, commonly we would consider to have multiple activities to delegate different functions unto them. To link up and create a smooth transition with these multiple activities, we need to setup the screen navigation for apps and we would use **Intent** to achieve that. Check out this [explanation on Intent](https://stackoverflow.com/a/43013843/5008350).
+
+However, allowing the Application to able to navigation from screen to screen may not enough. In some case, we may need to allow the screens to communicate with each others by passing data from screen to screen. So we can use **Intent** build in functions which are the **putExtra()** and **getExtra()**.
+
+If you have completed this [My First App](https://developer.android.com/training/basics/firstapp/) previous practical at [Android Development Tools and Resources](#android-development-tools-and-resources) section, then you should have already try out [Starting a Activity](https://developer.android.com/training/basics/firstapp/starting-activity) which allow you to open a new Activity(screen) from an Activity(screen) and also passing data among them. 
+
+Do make sure you have try out [Starting a Activity](https://developer.android.com/training/basics/firstapp/starting-activity).
+
+
+<br>
+
 ## Understanding Your Project
 
 Simply letting Android Studio manage most of the things in your project, and having the mindset of "as long it works, will do" does not work in Android Development, you have to at least understand some basic of "How your Project Work" so that you still able in control of the configuration of your project.
@@ -187,7 +201,8 @@ Cool, if you able to catch up all the things above, you have at least able to:
 1. Differentiate Mobile and Web application, understand the Category of Mobile Application
 2. Understand Basic of Android and Setup the Android Studio
 3. Create a Simple Android Native Apps in **JAVA** and able to play with basic UI controls
-4. Have the basic idea on How your project is being build and How to manage your Project Directories
+4. Able to deal with Basic Screen Navigation and Data Passing
+5. Have the basic idea on How your project is being build and How to manage your Project Directories
 
 ![iceberg](https://github.com/slnn3r/AndroidTutorial/blob/master/img/iceberg_header_0.jpg)
 
