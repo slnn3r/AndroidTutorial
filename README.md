@@ -83,7 +83,7 @@ Currently there are 2 Available Native Language that widely supported by Google 
 
 1. **JAVA** - JAVA have been in the scene for a decade, a general purpose programming language that can be use to code web, windows application, mobile application and many more. I personally think JAVA is a very good place to start off learning the **Object Oriented Programming Concept** as well. For more info, Google it.
 
-2. **KOTLIN** - JAVA officially is the first official language to code Android Native Mobile Application and being supported by Google. In 2017, Google officially announced that they will be offer **first-class support** toward KOTLIN and make it one of their official language to develop Android Native Mobile Application. It offers some great technologies such as Lambdas, etc, the code implementation is usually shorter and concise than JAVA. For more info, Google it.    
+2. **KOTLIN** - KOTLIN is the first official language to code Android Native Mobile Application and being supported by Google. In 2017, Google officially announced that they will be offer **first-class support** toward KOTLIN and make it one of their official language to develop Android Native Mobile Application. It offers some great technologies such as Lambdas, etc, the code implementation is usually shorter and concise than JAVA. For more info, Google it.    
 
 It's 2018, code in Modern Language like KOTLIN is very preferable. However, for novice, it would highly recommended to code in JAVA instead.
 
